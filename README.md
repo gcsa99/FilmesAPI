@@ -3,12 +3,12 @@
 
 WebAPI simples escrita em C# com uso do framework .NET 6.0
 
-Api para estudos onde relciona filmes, cinemas e sessıes.
+Api para estudos onde relaciona filmes, cinemas e sess√µes.
 
-Endpoints de Filmes est„o documentados em: https://localhost:8001/swagger/index.html
+Endpoints de Filmes est√£o documentados em: https://localhost:8001/swagger/index.html
 
-Necess·rio: SQL server
-ConfiguraÁ„o do BD na aplicaÁ„o:
+Necess√°rio: SQL server
+Configura√ß√£o do BD na aplica√ß√£o:
 
 Em appsettings.json:
 
